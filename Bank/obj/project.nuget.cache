@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "17Q0l5TacrE+hnz2NQKpLY3fUDMv7vfcn2mLRBFWcZB4r5Itaq1Qc0pzLn22d2a+MxDThMe+6ekaTPXDn8uhSA==",
+  "success": true,
+  "projectFilePath": "D:\\App\\InnovaOne\\Bank\\Dio\\Bank\\Bank.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Valfran\\.nuget\\packages\\newtonsoft.json\\12.0.3\\newtonsoft.json.12.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}
